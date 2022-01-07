@@ -13,3 +13,10 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+/database/d2.sqlite
+/database/database.sqlite
+/database/msgstore.db
+/database/msgstore.db.sqlite
+/database/msgstore.db.sqlite-shm
+/database/msgstore.db.sqlite-wal
+/database/wa.db
