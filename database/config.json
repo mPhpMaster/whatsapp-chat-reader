@@ -1,0 +1,4 @@
+{
+    "db": "msgstore.db.sqlite",
+    "wa": "wa.db"
+}
